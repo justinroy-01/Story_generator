@@ -1,0 +1,20 @@
+# Ignore node modules (if you ever use npm)
+node_modules/
+
+# Ignore build or dist folders (if you add bundlers later)
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# VS Code settings (if you're using it)
+.vscode/
+
+# Environment/secret files (if you add any in future)
+.env
